@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap6_q1", "Chap6_q1\Chap6_q1.csproj", "{DE3F6DB9-AD42-4D1C-A763-4E322C8873EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap6_q2", "Chap6_q2\Chap6_q2.csproj", "{7776489F-2A9A-407A-93D9-6472FE68A58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap6_q3", "Chap6_q3\Chap6_q3.csproj", "{B6428C0D-11F1-4C43-BEB1-3E211F4D12F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3F6DB9-AD42-4D1C-A763-4E322C8873EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3F6DB9-AD42-4D1C-A763-4E322C8873EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3F6DB9-AD42-4D1C-A763-4E322C8873EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3F6DB9-AD42-4D1C-A763-4E322C8873EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7776489F-2A9A-407A-93D9-6472FE68A58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7776489F-2A9A-407A-93D9-6472FE68A58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7776489F-2A9A-407A-93D9-6472FE68A58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7776489F-2A9A-407A-93D9-6472FE68A58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6428C0D-11F1-4C43-BEB1-3E211F4D12F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6428C0D-11F1-4C43-BEB1-3E211F4D12F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6428C0D-11F1-4C43-BEB1-3E211F4D12F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6428C0D-11F1-4C43-BEB1-3E211F4D12F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C938AE29-170A-4358-A2EB-7C36376A7D21}
+	EndGlobalSection
+EndGlobal
